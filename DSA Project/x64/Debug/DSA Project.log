@@ -1,0 +1,20 @@
+﻿  calculator.cpp
+H:\project1\DSA Project\DSA Project\calculator.h(281,10): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'calculator.cpp')
+  
+H:\project1\DSA Project\DSA Project\calculator.h(282,10): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'calculator.cpp')
+  
+  first.cpp
+H:\project1\DSA Project\DSA Project\calculator.h(281,10): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'first.cpp')
+  
+H:\project1\DSA Project\DSA Project\calculator.h(282,10): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'first.cpp')
+  
+H:\project1\DSA Project\DSA Project\ZakatCalculator.h(604,12): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'first.cpp')
+  
+  Generating Code...
+  calculator.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  DSA Project.vcxproj -> H:\project1\DSA Project\x64\Debug\DSA Project.exe

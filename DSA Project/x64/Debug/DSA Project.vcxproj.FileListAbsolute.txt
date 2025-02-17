@@ -1,0 +1,5 @@
+H:\project1\DSA Project\DSA Project\x64\Debug\DSA Project.vcxproj.AssemblyReference.cache
+H:\project1\DSA Project\DSA Project\x64\Debug\DSAProject.first.resources
+H:\project1\DSA Project\DSA Project\x64\Debug\DSA Project.vcxproj.GenerateResource.cache
+H:\project1\DSA Project\DSA Project\x64\Debug\DSAProject.calculator.resources
+H:\project1\DSA Project\DSA Project\x64\Debug\DSAProject.ZakatCalculator.resources
